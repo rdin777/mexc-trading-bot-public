@@ -1,0 +1,20 @@
+{
+  "name": "mexc-bot",
+  "version": "1.0.0",
+  "main": "trade-bot.ts",
+  "scripts": {
+    "start": "ts-node trade-bot.ts"
+  },
+  "dependencies": {
+    "ccxt": "^4.5.54",
+    "dotenv": "^17.4.2",
+    "node-telegram-bot-api": "^0.67.0",
+    "technicalindicators": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "@types/node-telegram-bot-api": "^0.64.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

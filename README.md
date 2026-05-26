@@ -46,6 +46,8 @@ node-telegram-bot-api
 💡 Improvement Suggestions
 The project is open to Pull Requests! If you have ideas for adding new indicators or supporting other trading pairs, I would be happy to discuss them in the Issues section.
 
+MEXC https://promote.mexc.com/r/UkjrYr22eY
+
 Markdown
 ## ☕ Support the Project
 If this bot has helped you with your trading or saved you time on analysis, you can support the project's development:
